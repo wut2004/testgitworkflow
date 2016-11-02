@@ -1,3 +1,0 @@
-TEstblue BLUE
-#echo set test blue
-:test

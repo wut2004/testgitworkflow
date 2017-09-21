@@ -1,4 +1,5 @@
 A
+<<<<<<< Updated upstream
 B
 C
 D
@@ -8,3 +9,6 @@ G
 H
 I
 J
+=======
+tet stash
+>>>>>>> Stashed changes
